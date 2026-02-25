@@ -36,6 +36,7 @@
 | [0183-customers-who-never-order](https://github.com/tientran111204/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/tientran111204/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0595-big-countries](https://github.com/tientran111204/Leetcode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/tientran111204/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 ## Hash Table
 |  |
 | ------- |
