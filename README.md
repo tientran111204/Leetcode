@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/tientran111204/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/tientran111204/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tientran111204/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/tientran111204/Leetcode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tientran111204/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/tientran111204/Leetcode/tree/master/0414-third-maximum-number) |
 ## Database
 |  |
 | ------- |
