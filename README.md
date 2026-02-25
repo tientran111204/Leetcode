@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/tientran111204/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tientran111204/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/tientran111204/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/tientran111204/Leetcode/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
