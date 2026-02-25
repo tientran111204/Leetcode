@@ -18,6 +18,7 @@
 | [0414-third-maximum-number](https://github.com/tientran111204/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tientran111204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tientran111204/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/tientran111204/Leetcode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tientran111204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/tientran111204/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
