@@ -5,12 +5,14 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/tientran111204/Leetcode/tree/master/0066-plus-one) |
 | [3099-harshad-number](https://github.com/tientran111204/Leetcode/tree/master/3099-harshad-number) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tientran111204/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tientran111204/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/tientran111204/Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
