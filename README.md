@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/tientran111204/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tientran111204/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/tientran111204/Leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tientran111204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 | ------- |
 | [0183-customers-who-never-order](https://github.com/tientran111204/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/tientran111204/Leetcode/tree/master/0185-department-top-three-salaries) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tientran111204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
