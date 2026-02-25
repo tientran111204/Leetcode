@@ -28,6 +28,7 @@
 | [1089-duplicate-zeros](https://github.com/tientran111204/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tientran111204/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tientran111204/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/tientran111204/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0905-sort-array-by-parity](https://github.com/tientran111204/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tientran111204/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/tientran111204/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/tientran111204/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0905-sort-array-by-parity](https://github.com/tientran111204/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tientran111204/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tientran111204/Leetcode/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/tientran111204/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Database
 |  |
 | ------- |
@@ -59,6 +62,7 @@
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tientran111204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/tientran111204/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,4 +71,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/tientran111204/Leetcode/tree/master/1051-height-checker) |
+## Binary Search
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/tientran111204/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
