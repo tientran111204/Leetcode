@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/tientran111204/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/tientran111204/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tientran111204/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/tientran111204/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,12 +28,14 @@
 | [0027-remove-element](https://github.com/tientran111204/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/tientran111204/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tientran111204/Leetcode/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/tientran111204/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tientran111204/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/tientran111204/Leetcode/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tientran111204/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/tientran111204/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Database
 |  |
 | ------- |
