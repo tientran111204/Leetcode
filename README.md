@@ -24,6 +24,7 @@
 | [0941-valid-mountain-array](https://github.com/tientran111204/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tientran111204/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tientran111204/Leetcode/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/tientran111204/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0283-move-zeroes](https://github.com/tientran111204/Leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/tientran111204/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tientran111204/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/tientran111204/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
