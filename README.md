@@ -62,6 +62,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/tientran111204/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/tientran111204/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1211-queries-quality-and-percentage](https://github.com/tientran111204/Leetcode/tree/master/1211-queries-quality-and-percentage) |
+| [1407-top-travellers](https://github.com/tientran111204/Leetcode/tree/master/1407-top-travellers) |
 ## Hash Table
 |  |
 | ------- |
